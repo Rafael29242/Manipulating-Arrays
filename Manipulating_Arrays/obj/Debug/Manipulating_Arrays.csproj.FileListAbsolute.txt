@@ -1,0 +1,7 @@
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\Manipulating_Arrays\Manipulating_Arrays\bin\Debug\Manipulating_Arrays.exe.config
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\Manipulating_Arrays\Manipulating_Arrays\bin\Debug\Manipulating_Arrays.exe
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\Manipulating_Arrays\Manipulating_Arrays\bin\Debug\Manipulating_Arrays.pdb
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\Manipulating_Arrays\Manipulating_Arrays\obj\Debug\Manipulating_Arrays.csprojAssemblyReference.cache
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\Manipulating_Arrays\Manipulating_Arrays\obj\Debug\Manipulating_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\Manipulating_Arrays\Manipulating_Arrays\obj\Debug\Manipulating_Arrays.exe
+C:\Users\wwstudent\Desktop\Rafael Gomez\ISTA421\Manipulating_Arrays\Manipulating_Arrays\obj\Debug\Manipulating_Arrays.pdb
