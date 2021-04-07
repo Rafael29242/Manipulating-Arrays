@@ -4,7 +4,7 @@
 * Array b: 1, 3, 5, 7, 9
 * Array c: 3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5, 9
 
--Sum: 
+- Sum: 
 Write a Method that accepts an array of ints as a parameter, and returns the sum of all of the values in that array. The return type should be an int.
 
 Average (20 Points)
